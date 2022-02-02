@@ -33,12 +33,6 @@
           "settings": {
           }
         },
-        "buy_buttons": {
-          "type": "buy_buttons",
-          "settings": {
-            "show_dynamic_checkout": true
-          }
-        },
         "description": {
           "type": "description",
           "settings": {
@@ -47,6 +41,12 @@
         "price": {
           "type": "price",
           "settings": {
+          }
+        },
+        "buy_buttons": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_dynamic_checkout": true
           }
         },
         "collapsible-row-0": {
